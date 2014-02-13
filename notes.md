@@ -3,3 +3,4 @@
 2014-01-08T01:08:00 - Minor doc updates: linking to article on quantization (prophet)
 2014-01-08T20:29:00 - Implementing approach from a new paper read last night (prophet)
 2014-01-21T02:26:00 - Minor doc updates: linking to article on quantization (prophet)
+2014-02-13T19:39:00 - Minor doc updates: linking to article on quantization (prophet)
