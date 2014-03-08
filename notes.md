@@ -8,3 +8,4 @@
 2014-02-13T19:44:00 - Minor doc updates: linking to article on quantization (prophet)
 2014-02-24T17:08:00 - Minor doc updates: linking to article on quantization (prophet)
 2014-02-24T18:46:00 - Refactor for clarity, might break a few tests though (prophet)
+2014-03-08T08:41:00 - Late-night bugfix on financial RL environment (prophet)
