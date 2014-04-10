@@ -10,3 +10,4 @@
 2014-02-24T18:46:00 - Refactor for clarity, might break a few tests though (prophet)
 2014-03-08T08:41:00 - Late-night bugfix on financial RL environment (prophet)
 2014-04-10T20:50:00 - Refactor for clarity, might break a few tests though (prophet)
+2014-04-10T02:01:00 - Implementing approach from a new paper read last night (prophet)
