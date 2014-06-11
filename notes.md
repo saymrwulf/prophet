@@ -14,3 +14,4 @@
 2014-04-10T23:02:00 - Late-night bugfix on financial RL environment (prophet)
 2014-06-11T23:06:00 - Minor doc updates: linking to article on quantization (prophet)
 2014-06-11T22:59:00 - Late-night bugfix on financial RL environment (prophet)
+2014-06-11T06:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
