@@ -13,3 +13,4 @@
 2014-04-10T02:01:00 - Implementing approach from a new paper read last night (prophet)
 2014-04-10T23:02:00 - Late-night bugfix on financial RL environment (prophet)
 2014-06-11T23:06:00 - Minor doc updates: linking to article on quantization (prophet)
+2014-06-11T22:59:00 - Late-night bugfix on financial RL environment (prophet)
