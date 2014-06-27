@@ -15,3 +15,4 @@
 2014-06-11T23:06:00 - Minor doc updates: linking to article on quantization (prophet)
 2014-06-11T22:59:00 - Late-night bugfix on financial RL environment (prophet)
 2014-06-11T06:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2014-06-27T04:22:00 - Implementing approach from a new paper read last night (prophet)
