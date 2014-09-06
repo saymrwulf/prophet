@@ -19,3 +19,4 @@
 2014-06-27T04:13:00 - Refactor for clarity, might break a few tests though (prophet)
 2014-08-02T21:39:00 - Refactor for clarity, might break a few tests though (prophet)
 2014-08-21T04:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2014-09-07T01:24:00 - Late-night bugfix on financial RL environment (prophet)
