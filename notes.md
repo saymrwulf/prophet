@@ -23,3 +23,4 @@
 2014-09-07T05:03:00 - Refactor for clarity, might break a few tests though (prophet)
 2014-09-07T02:11:00 - Late-night bugfix on financial RL environment (prophet)
 2014-11-21T05:24:00 - Implementing approach from a new paper read last night (prophet)
+2014-11-26T01:31:00 - Refactor for clarity, might break a few tests though (prophet)
