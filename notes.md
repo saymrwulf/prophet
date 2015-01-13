@@ -27,3 +27,4 @@
 2014-11-26T00:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2014-11-26T21:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2015-01-13T21:46:00 - Late-night bugfix on financial RL environment (prophet)
+2015-01-13T19:24:00 - Quick fix, referencing a known issue from the official repo (prophet)
