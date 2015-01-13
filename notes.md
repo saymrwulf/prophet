@@ -28,3 +28,4 @@
 2014-11-26T21:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2015-01-13T21:46:00 - Late-night bugfix on financial RL environment (prophet)
 2015-01-13T19:24:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2015-01-13T20:27:00 - Minor doc updates: linking to article on quantization (prophet)
