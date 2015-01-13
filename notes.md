@@ -26,3 +26,4 @@
 2014-11-26T01:31:00 - Refactor for clarity, might break a few tests though (prophet)
 2014-11-26T00:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2014-11-26T21:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2015-01-13T21:46:00 - Late-night bugfix on financial RL environment (prophet)
