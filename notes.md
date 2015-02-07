@@ -36,3 +36,4 @@
 2015-01-17T02:52:00 - Late-night bugfix on financial RL environment (prophet)
 2015-02-07T07:48:00 - Implementing approach from a new paper read last night (prophet)
 2015-02-07T07:43:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2015-02-07T18:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
