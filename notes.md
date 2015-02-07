@@ -34,3 +34,4 @@
 2015-01-17T06:27:00 - Implementing approach from a new paper read last night (prophet)
 2015-01-17T23:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2015-01-17T02:52:00 - Late-night bugfix on financial RL environment (prophet)
+2015-02-07T07:48:00 - Implementing approach from a new paper read last night (prophet)
