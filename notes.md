@@ -40,3 +40,4 @@
 2015-04-17T08:38:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2015-04-17T21:12:00 - Late-night bugfix on financial RL environment (prophet)
 2015-06-06T22:46:00 - Minor doc updates: linking to article on quantization (prophet)
+2015-06-06T19:58:00 - Implementing approach from a new paper read last night (prophet)
