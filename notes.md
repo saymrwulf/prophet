@@ -44,3 +44,4 @@
 2015-06-06T06:25:00 - Implementing approach from a new paper read last night (prophet)
 2015-07-28T22:03:00 - Refactor for clarity, might break a few tests though (prophet)
 2015-08-06T18:00:00 - Minor doc updates: linking to article on quantization (prophet)
+2015-09-13T21:05:00 - Late-night bugfix on financial RL environment (prophet)
