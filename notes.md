@@ -46,3 +46,4 @@
 2015-08-06T18:00:00 - Minor doc updates: linking to article on quantization (prophet)
 2015-09-13T21:05:00 - Late-night bugfix on financial RL environment (prophet)
 2015-09-20T18:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2015-09-20T19:59:00 - Implementing approach from a new paper read last night (prophet)
