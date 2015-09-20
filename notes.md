@@ -45,3 +45,4 @@
 2015-07-28T22:03:00 - Refactor for clarity, might break a few tests though (prophet)
 2015-08-06T18:00:00 - Minor doc updates: linking to article on quantization (prophet)
 2015-09-13T21:05:00 - Late-night bugfix on financial RL environment (prophet)
+2015-09-20T18:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
