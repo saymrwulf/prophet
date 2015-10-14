@@ -49,3 +49,4 @@
 2015-09-20T19:59:00 - Implementing approach from a new paper read last night (prophet)
 2015-10-14T02:46:00 - Implementing approach from a new paper read last night (prophet)
 2015-10-14T02:26:00 - Refactor for clarity, might break a few tests though (prophet)
+2015-10-14T08:26:00 - Implementing approach from a new paper read last night (prophet)
