@@ -53,3 +53,4 @@
 2015-10-14T19:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2015-12-30T23:12:00 - Refactor for clarity, might break a few tests though (prophet)
 2015-12-30T06:41:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2015-12-30T21:10:00 - Minor doc updates: linking to article on quantization (prophet)
