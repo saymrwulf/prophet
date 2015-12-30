@@ -52,3 +52,4 @@
 2015-10-14T08:26:00 - Implementing approach from a new paper read last night (prophet)
 2015-10-14T19:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2015-12-30T23:12:00 - Refactor for clarity, might break a few tests though (prophet)
+2015-12-30T06:41:00 - Quick fix, referencing a known issue from the official repo (prophet)
