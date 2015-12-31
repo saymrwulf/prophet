@@ -55,3 +55,4 @@
 2015-12-30T06:41:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2015-12-30T21:10:00 - Minor doc updates: linking to article on quantization (prophet)
 2015-12-30T22:20:00 - Implementing approach from a new paper read last night (prophet)
+2015-12-31T08:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
