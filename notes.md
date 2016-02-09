@@ -60,3 +60,4 @@
 2015-12-31T01:53:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2015-12-31T19:00:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2016-02-09T23:29:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2016-02-09T04:40:00 - Late-night bugfix on financial RL environment (prophet)
