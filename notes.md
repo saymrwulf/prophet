@@ -65,3 +65,4 @@
 2016-02-24T18:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2016-02-26T19:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2016-02-26T05:16:00 - Refactor for clarity, might break a few tests though (prophet)
+2016-02-26T18:59:00 - Late-night bugfix on financial RL environment (prophet)
