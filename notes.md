@@ -64,3 +64,4 @@
 2016-02-24T17:44:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-02-24T18:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2016-02-26T19:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2016-02-26T05:16:00 - Refactor for clarity, might break a few tests though (prophet)
