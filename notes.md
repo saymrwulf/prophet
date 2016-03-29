@@ -68,3 +68,4 @@
 2016-02-26T18:59:00 - Late-night bugfix on financial RL environment (prophet)
 2016-02-26T08:57:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-03-29T05:20:00 - Minor doc updates: linking to article on quantization (prophet)
+2016-03-29T07:54:00 - Refactor for clarity, might break a few tests though (prophet)
