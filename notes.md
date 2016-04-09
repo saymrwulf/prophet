@@ -69,3 +69,4 @@
 2016-02-26T08:57:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-03-29T05:20:00 - Minor doc updates: linking to article on quantization (prophet)
 2016-03-29T07:54:00 - Refactor for clarity, might break a few tests though (prophet)
+2016-04-09T20:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
