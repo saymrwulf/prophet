@@ -72,3 +72,4 @@
 2016-04-09T20:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2016-04-09T21:19:00 - Minor doc updates: linking to article on quantization (prophet)
 2016-04-09T21:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2016-04-09T18:52:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
