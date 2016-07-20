@@ -81,3 +81,4 @@
 2016-05-24T01:09:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-07-20T01:24:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-07-20T01:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2016-07-20T23:43:00 - Minor doc updates: linking to article on quantization (prophet)
