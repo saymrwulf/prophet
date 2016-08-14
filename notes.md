@@ -85,3 +85,4 @@
 2016-07-20T08:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2016-08-14T00:56:00 - Late-night bugfix on financial RL environment (prophet)
 2016-08-14T05:24:00 - Minor doc updates: linking to article on quantization (prophet)
+2016-08-14T05:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
