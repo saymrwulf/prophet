@@ -88,3 +88,4 @@
 2016-08-14T05:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2016-08-27T20:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2016-08-27T20:11:00 - Minor doc updates: linking to article on quantization (prophet)
+2016-09-10T04:02:00 - Refactor for clarity, might break a few tests though (prophet)
