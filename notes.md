@@ -92,3 +92,4 @@
 2016-09-10T02:36:00 - Late-night bugfix on financial RL environment (prophet)
 2016-09-10T01:57:00 - Late-night bugfix on financial RL environment (prophet)
 2016-09-10T18:51:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2016-10-08T20:45:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
