@@ -94,3 +94,4 @@
 2016-09-10T18:51:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2016-10-08T20:45:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2016-10-25T02:29:00 - Refactor for clarity, might break a few tests though (prophet)
+2016-10-27T05:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
