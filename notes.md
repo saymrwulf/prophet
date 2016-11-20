@@ -98,3 +98,4 @@
 2016-10-27T20:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2016-10-27T17:12:00 - Late-night bugfix on financial RL environment (prophet)
 2016-11-20T20:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2016-11-20T19:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
