@@ -100,3 +100,4 @@
 2016-11-20T20:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2016-11-20T19:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2016-11-24T00:44:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2016-11-24T08:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
