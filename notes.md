@@ -110,3 +110,4 @@
 2017-04-23T02:26:00 - Minor doc updates: linking to article on quantization (prophet)
 2017-04-23T21:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2017-05-06T00:49:00 - Minor doc updates: linking to article on quantization (prophet)
+2017-05-06T02:34:00 - Quick fix, referencing a known issue from the official repo (prophet)
