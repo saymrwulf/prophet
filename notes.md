@@ -114,3 +114,4 @@
 2017-05-06T20:58:00 - Implementing approach from a new paper read last night (prophet)
 2017-05-17T04:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2017-05-17T17:55:00 - Minor doc updates: linking to article on quantization (prophet)
+2017-05-17T00:15:00 - Refactor for clarity, might break a few tests though (prophet)
