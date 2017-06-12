@@ -118,3 +118,4 @@
 2017-05-17T23:09:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2017-06-12T03:51:00 - Implementing approach from a new paper read last night (prophet)
 2017-06-12T01:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2017-06-12T22:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
