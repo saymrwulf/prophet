@@ -123,3 +123,4 @@
 2017-07-11T02:40:00 - Late-night bugfix on financial RL environment (prophet)
 2017-07-11T18:03:00 - Late-night bugfix on financial RL environment (prophet)
 2017-07-11T18:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2017-07-11T22:02:00 - Quick fix, referencing a known issue from the official repo (prophet)
