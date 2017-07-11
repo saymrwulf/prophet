@@ -122,3 +122,4 @@
 2017-06-26T19:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2017-07-11T02:40:00 - Late-night bugfix on financial RL environment (prophet)
 2017-07-11T18:03:00 - Late-night bugfix on financial RL environment (prophet)
+2017-07-11T18:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
