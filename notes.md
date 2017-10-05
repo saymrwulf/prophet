@@ -124,3 +124,4 @@
 2017-07-11T18:03:00 - Late-night bugfix on financial RL environment (prophet)
 2017-07-11T18:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2017-07-11T22:02:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2017-10-06T00:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
