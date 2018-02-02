@@ -128,3 +128,4 @@
 2017-10-06T05:08:00 - Late-night bugfix on financial RL environment (prophet)
 2017-10-06T00:47:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2017-10-06T06:21:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2018-02-02T02:18:00 - Quick fix, referencing a known issue from the official repo (prophet)
