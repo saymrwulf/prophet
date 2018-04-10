@@ -132,3 +132,4 @@
 2018-03-04T20:30:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2018-03-04T08:24:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2018-04-10T06:34:00 - Late-night bugfix on financial RL environment (prophet)
+2018-04-10T23:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
