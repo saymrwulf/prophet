@@ -133,3 +133,4 @@
 2018-03-04T08:24:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2018-04-10T06:34:00 - Late-night bugfix on financial RL environment (prophet)
 2018-04-10T23:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2018-05-04T04:39:00 - Late-night bugfix on financial RL environment (prophet)
