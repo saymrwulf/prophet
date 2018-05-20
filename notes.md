@@ -136,3 +136,4 @@
 2018-05-04T04:39:00 - Late-night bugfix on financial RL environment (prophet)
 2018-05-18T02:14:00 - Late-night bugfix on financial RL environment (prophet)
 2018-05-18T02:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2018-05-20T17:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
