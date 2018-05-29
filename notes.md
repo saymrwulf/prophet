@@ -141,3 +141,4 @@
 2018-05-29T19:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2018-05-29T19:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2018-05-29T17:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2018-05-29T05:05:00 - Minor doc updates: linking to article on quantization (prophet)
