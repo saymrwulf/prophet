@@ -138,3 +138,4 @@
 2018-05-18T02:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2018-05-20T17:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2018-05-20T07:56:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2018-05-29T19:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
