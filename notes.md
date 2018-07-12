@@ -143,3 +143,4 @@
 2018-05-29T17:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2018-05-29T05:05:00 - Minor doc updates: linking to article on quantization (prophet)
 2018-07-12T05:22:00 - Late-night bugfix on financial RL environment (prophet)
+2018-07-12T02:42:00 - Quick fix, referencing a known issue from the official repo (prophet)
