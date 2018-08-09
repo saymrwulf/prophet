@@ -146,3 +146,4 @@
 2018-07-12T02:42:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2018-08-08T06:36:00 - Implementing approach from a new paper read last night (prophet)
 2018-08-08T02:52:00 - Minor doc updates: linking to article on quantization (prophet)
+2018-08-09T08:36:00 - Quick fix, referencing a known issue from the official repo (prophet)
