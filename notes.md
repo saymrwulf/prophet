@@ -148,3 +148,4 @@
 2018-08-08T02:52:00 - Minor doc updates: linking to article on quantization (prophet)
 2018-08-09T08:36:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2018-08-09T20:10:00 - Refactor for clarity, might break a few tests though (prophet)
+2018-08-27T19:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
