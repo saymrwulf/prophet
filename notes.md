@@ -154,3 +154,4 @@
 2018-08-27T03:26:00 - Implementing approach from a new paper read last night (prophet)
 2018-09-17T04:22:00 - Refactor for clarity, might break a few tests though (prophet)
 2018-09-17T19:08:00 - Refactor for clarity, might break a few tests though (prophet)
+2018-09-17T03:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
