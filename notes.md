@@ -155,3 +155,4 @@
 2018-09-17T04:22:00 - Refactor for clarity, might break a few tests though (prophet)
 2018-09-17T19:08:00 - Refactor for clarity, might break a few tests though (prophet)
 2018-09-17T03:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2018-10-05T08:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
