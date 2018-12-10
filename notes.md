@@ -161,3 +161,4 @@
 2018-12-10T03:48:00 - Refactor for clarity, might break a few tests though (prophet)
 2018-12-10T23:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2018-12-10T23:34:00 - Minor doc updates: linking to article on quantization (prophet)
+2018-12-10T04:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
