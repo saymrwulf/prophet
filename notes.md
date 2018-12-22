@@ -164,3 +164,4 @@
 2018-12-10T04:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2018-12-19T07:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2018-12-22T20:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2018-12-22T21:47:00 - Implementing approach from a new paper read last night (prophet)
