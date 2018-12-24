@@ -166,3 +166,4 @@
 2018-12-22T20:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2018-12-22T21:47:00 - Implementing approach from a new paper read last night (prophet)
 2018-12-22T03:46:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2018-12-24T20:25:00 - Quick fix, referencing a known issue from the official repo (prophet)
