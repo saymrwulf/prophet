@@ -171,3 +171,4 @@
 2018-12-24T02:48:00 - Minor doc updates: linking to article on quantization (prophet)
 2018-12-24T23:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2019-03-15T20:03:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2019-04-14T08:56:00 - Refactor for clarity, might break a few tests though (prophet)
