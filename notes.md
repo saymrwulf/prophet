@@ -178,3 +178,4 @@
 2019-05-30T04:43:00 - Minor doc updates: linking to article on quantization (prophet)
 2019-05-30T22:06:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2019-05-30T17:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2019-05-30T07:45:00 - Quick fix, referencing a known issue from the official repo (prophet)
