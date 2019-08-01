@@ -180,3 +180,4 @@
 2019-05-30T17:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2019-05-30T07:45:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2019-07-08T18:16:00 - Minor doc updates: linking to article on quantization (prophet)
+2019-08-01T21:11:00 - Implementing approach from a new paper read last night (prophet)
