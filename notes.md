@@ -184,3 +184,4 @@
 2019-11-07T00:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2019-11-07T05:18:00 - Implementing approach from a new paper read last night (prophet)
 2019-11-10T23:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2019-11-10T07:41:00 - Implementing approach from a new paper read last night (prophet)
