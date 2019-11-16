@@ -188,3 +188,4 @@
 2019-11-16T03:59:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2019-11-16T20:35:00 - Late-night bugfix on financial RL environment (prophet)
 2019-11-16T03:43:00 - Late-night bugfix on financial RL environment (prophet)
+2019-11-16T18:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
