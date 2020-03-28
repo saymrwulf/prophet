@@ -194,3 +194,4 @@
 2020-01-07T18:03:00 - Refactor for clarity, might break a few tests though (prophet)
 2020-01-07T21:32:00 - Late-night bugfix on financial RL environment (prophet)
 2020-03-08T04:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2020-03-28T06:11:00 - Late-night bugfix on financial RL environment (prophet)
