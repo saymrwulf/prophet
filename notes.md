@@ -197,3 +197,4 @@
 2020-03-28T06:11:00 - Late-night bugfix on financial RL environment (prophet)
 2020-04-02T03:56:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2020-04-02T17:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2020-04-02T05:52:00 - Late-night bugfix on financial RL environment (prophet)
