@@ -206,3 +206,4 @@
 2020-06-16T03:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2020-06-16T07:43:00 - Minor doc updates: linking to article on quantization (prophet)
 2020-07-17T21:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2020-09-15T19:30:00 - Implementing approach from a new paper read last night (prophet)
