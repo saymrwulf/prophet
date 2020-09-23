@@ -209,3 +209,4 @@
 2020-09-15T19:30:00 - Implementing approach from a new paper read last night (prophet)
 2020-09-15T18:08:00 - Late-night bugfix on financial RL environment (prophet)
 2020-09-15T22:38:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2020-09-23T02:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
