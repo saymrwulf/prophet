@@ -225,3 +225,4 @@
 2021-01-19T19:44:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2021-01-19T04:37:00 - Minor doc updates: linking to article on quantization (prophet)
 2021-01-28T03:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2021-01-28T01:59:00 - Implementing approach from a new paper read last night (prophet)
