@@ -228,3 +228,4 @@
 2021-01-28T01:59:00 - Implementing approach from a new paper read last night (prophet)
 2021-01-28T17:59:00 - Late-night bugfix on financial RL environment (prophet)
 2021-01-28T04:44:00 - Refactor for clarity, might break a few tests though (prophet)
+2021-02-07T18:15:00 - Late-night bugfix on financial RL environment (prophet)
