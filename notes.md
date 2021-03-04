@@ -235,3 +235,4 @@
 2021-02-27T21:36:00 - Refactor for clarity, might break a few tests though (prophet)
 2021-02-27T00:57:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2021-03-04T22:06:00 - Implementing approach from a new paper read last night (prophet)
+2021-03-04T03:08:00 - Late-night bugfix on financial RL environment (prophet)
