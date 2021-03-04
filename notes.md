@@ -236,3 +236,4 @@
 2021-02-27T00:57:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2021-03-04T22:06:00 - Implementing approach from a new paper read last night (prophet)
 2021-03-04T03:08:00 - Late-night bugfix on financial RL environment (prophet)
+2021-03-04T01:23:00 - Minor doc updates: linking to article on quantization (prophet)
