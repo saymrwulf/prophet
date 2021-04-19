@@ -237,3 +237,4 @@
 2021-03-04T22:06:00 - Implementing approach from a new paper read last night (prophet)
 2021-03-04T03:08:00 - Late-night bugfix on financial RL environment (prophet)
 2021-03-04T01:23:00 - Minor doc updates: linking to article on quantization (prophet)
+2021-04-19T20:59:00 - Late-night bugfix on financial RL environment (prophet)
