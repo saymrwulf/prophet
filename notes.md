@@ -242,3 +242,4 @@
 2021-05-15T08:38:00 - Refactor for clarity, might break a few tests though (prophet)
 2021-05-15T22:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2021-05-15T01:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2021-05-15T06:58:00 - Minor doc updates: linking to article on quantization (prophet)
