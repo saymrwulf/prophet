@@ -245,3 +245,4 @@
 2021-05-15T06:58:00 - Minor doc updates: linking to article on quantization (prophet)
 2021-06-02T08:18:00 - Refactor for clarity, might break a few tests though (prophet)
 2021-06-28T08:02:00 - Minor doc updates: linking to article on quantization (prophet)
+2021-06-28T05:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
