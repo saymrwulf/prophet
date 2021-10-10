@@ -249,3 +249,4 @@
 2021-06-28T04:55:00 - Late-night bugfix on financial RL environment (prophet)
 2021-06-28T21:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2021-07-26T00:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2021-10-10T07:45:00 - Late-night bugfix on financial RL environment (prophet)
