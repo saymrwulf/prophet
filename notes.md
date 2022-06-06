@@ -255,3 +255,4 @@
 2022-03-07T19:16:00 - Refactor for clarity, might break a few tests though (prophet)
 2022-06-07T17:53:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2022-06-07T03:56:00 - Implementing approach from a new paper read last night (prophet)
+2022-06-07T01:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
