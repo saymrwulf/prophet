@@ -257,3 +257,4 @@
 2022-06-07T03:56:00 - Implementing approach from a new paper read last night (prophet)
 2022-06-07T01:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2022-06-07T00:04:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2022-08-01T05:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
