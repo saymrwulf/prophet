@@ -259,3 +259,4 @@
 2022-06-07T00:04:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2022-08-01T05:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2022-08-01T03:45:00 - Implementing approach from a new paper read last night (prophet)
+2022-08-01T21:11:00 - Refactor for clarity, might break a few tests though (prophet)
