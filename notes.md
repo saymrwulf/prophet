@@ -262,3 +262,4 @@
 2022-08-01T21:11:00 - Refactor for clarity, might break a few tests though (prophet)
 2022-08-01T19:11:00 - Refactor for clarity, might break a few tests though (prophet)
 2022-10-22T01:17:00 - Refactor for clarity, might break a few tests though (prophet)
+2022-10-22T06:19:00 - Late-night bugfix on financial RL environment (prophet)
