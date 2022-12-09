@@ -264,3 +264,4 @@
 2022-10-22T01:17:00 - Refactor for clarity, might break a few tests though (prophet)
 2022-10-22T06:19:00 - Late-night bugfix on financial RL environment (prophet)
 2022-12-09T18:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
+2022-12-09T03:11:00 - Minor doc updates: linking to article on quantization (prophet)
