@@ -267,3 +267,4 @@
 2022-12-09T03:11:00 - Minor doc updates: linking to article on quantization (prophet)
 2022-12-10T02:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2022-12-10T00:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2022-12-10T21:38:00 - Implementing approach from a new paper read last night (prophet)
