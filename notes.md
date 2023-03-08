@@ -272,3 +272,4 @@
 2023-02-28T06:32:00 - Implementing approach from a new paper read last night (prophet)
 2023-03-08T19:33:00 - Minor doc updates: linking to article on quantization (prophet)
 2023-03-08T00:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2023-03-08T01:46:00 - Minor doc updates: linking to article on quantization (prophet)
