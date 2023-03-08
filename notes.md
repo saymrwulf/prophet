@@ -270,3 +270,4 @@
 2022-12-10T21:38:00 - Implementing approach from a new paper read last night (prophet)
 2023-01-29T04:20:00 - Implementing approach from a new paper read last night (prophet)
 2023-02-28T06:32:00 - Implementing approach from a new paper read last night (prophet)
+2023-03-08T19:33:00 - Minor doc updates: linking to article on quantization (prophet)
