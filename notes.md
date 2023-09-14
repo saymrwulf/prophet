@@ -283,3 +283,4 @@
 2023-08-22T08:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2023-08-22T06:57:00 - Late-night bugfix on financial RL environment (prophet)
 2023-09-14T06:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
+2023-09-14T18:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
