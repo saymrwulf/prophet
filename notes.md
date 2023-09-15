@@ -287,3 +287,4 @@
 2023-09-14T05:44:00 - Refactor for clarity, might break a few tests though (prophet)
 2023-09-14T04:08:00 - Minor doc updates: linking to article on quantization (prophet)
 2023-09-15T00:55:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2023-09-15T23:41:00 - Implementing approach from a new paper read last night (prophet)
