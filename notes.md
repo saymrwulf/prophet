@@ -291,3 +291,4 @@
 2023-09-15T23:02:00 - Minor doc updates: linking to article on quantization (prophet)
 2023-10-08T07:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2023-10-08T02:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2023-10-08T08:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
