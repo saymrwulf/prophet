@@ -294,3 +294,4 @@
 2023-10-08T08:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2023-11-13T08:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2023-11-13T00:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2023-11-16T08:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
