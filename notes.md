@@ -299,3 +299,4 @@
 2023-11-24T05:30:00 - Implementing approach from a new paper read last night (prophet)
 2023-11-24T01:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (prophet)
 2024-01-02T02:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
+2024-01-23T02:48:00 - Quick fix, referencing a known issue from the official repo (prophet)
