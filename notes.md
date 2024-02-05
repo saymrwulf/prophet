@@ -304,3 +304,4 @@
 2024-02-13T08:40:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2024-02-05T21:54:00 - Refactor for clarity, might break a few tests though (prophet)
 2024-02-05T05:34:00 - Late-night bugfix on financial RL environment (prophet)
+2024-02-05T23:05:00 - Minor doc updates: linking to article on quantization (prophet)
