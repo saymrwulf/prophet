@@ -301,3 +301,4 @@
 2024-01-02T02:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (prophet)
 2024-01-23T02:48:00 - Quick fix, referencing a known issue from the official repo (prophet)
 2024-01-23T06:05:00 - Quick fix, referencing a known issue from the official repo (prophet)
+2024-02-13T08:40:00 - Quick fix, referencing a known issue from the official repo (prophet)
