@@ -311,3 +311,4 @@
 2024-07-08T01:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (prophet)
 2024-07-08T03:18:00 - Implementing approach from a new paper read last night (prophet)
 2024-07-08T20:12:00 - Refactor for clarity, might break a few tests though (prophet)
+2024-08-10T18:44:00 - Late-night bugfix on financial RL environment (prophet)
