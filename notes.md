@@ -314,3 +314,4 @@
 2024-08-10T18:44:00 - Late-night bugfix on financial RL environment (prophet)
 2024-08-26T00:01:00 - Minor doc updates: linking to article on quantization (prophet)
 2024-08-26T06:18:00 - Late-night bugfix on financial RL environment (prophet)
+2024-08-26T06:22:00 - Implementing approach from a new paper read last night (prophet)
